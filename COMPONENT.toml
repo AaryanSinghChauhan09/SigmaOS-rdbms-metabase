@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-rdbms-metabase"
+version = "0.1.0"
+category = "database"
+description = "SigmaOS RDBMS — Metabase BI on relational data"
